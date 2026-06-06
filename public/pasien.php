@@ -221,6 +221,7 @@ body{
     padding:25px;
     border-radius:12px;
     border:1px solid #e2e8f0;
+    width:75%;
 }
 
 /* FORM GROUP */
