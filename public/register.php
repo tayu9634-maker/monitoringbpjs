@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Registrasi</title>
+    <title>Registrasi Pasien</title>
     <style>
         /* Copy seluruh CSS dari file registrasi.css ke sini */
         * {
